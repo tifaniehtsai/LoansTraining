@@ -1,1 +1,1 @@
-# LoansTraining
+# Loans Training
